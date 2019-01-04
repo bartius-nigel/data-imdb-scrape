@@ -1,6 +1,6 @@
 ## Movie Data Analysis
 ### About
-This is a simple data hunt and analysis. The data comes from IMDB's website. Specifically it's from their most popular list
+This is a simple data hunt and analysis. The data comes from IMDB's website. Specifically it's from their top 250 list.
 
 ### View
 You can view the jupyter notebook right from github but feel free to clone it and work with it yourself!
